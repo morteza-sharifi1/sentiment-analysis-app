@@ -15,5 +15,7 @@ main.py: This file contains the main Flask application code.
 index.html: This file contains the HTML and CSS code for the user interface.
 ## Acknowledgments
 Flask
+
 NLTK
+
 VADER sentiment analysis model.
